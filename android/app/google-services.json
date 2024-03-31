@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865628798359",
+    "project_id": "metro-f9777",
+    "storage_bucket": "metro-f9777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865628798359:android:04a98c74d77c06038058d2",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lobBBNg6R2asCbr1zfegq4CbV0GOkl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
